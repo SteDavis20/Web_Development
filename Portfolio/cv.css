@@ -1,0 +1,31 @@
+* {
+  font-size: 16px;
+  padding: 0px 5px;
+  margin: 0px;
+}
+
+#top {
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  /*color: red; */
+  /* padding: 20px 500px; */
+}
+
+h2 {
+  font-size: 20px;
+  margin: 20px 0px 10px 0px;
+  /* color: blue; */
+}
+
+h3 {
+  /*font-size: 25px; */
+  margin: 5px 0px;
+  /* color: green; */
+}
+
+ul {
+  padding: 0px 0px 0px 50px;
+}
